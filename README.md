@@ -4,7 +4,7 @@ This is simple README file
 
 Adding details to catch differences
 
-Some details are added now
+I hope this isn't a problem.
 
 Adding details for branching exercise
 
